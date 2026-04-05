@@ -1,4 +1,8 @@
-bread
+edit online
 milk
 eggs
+<<<<<<< HEAD
 edit local
+=======
+pasta
+>>>>>>> f7542dd76cfa22bdf23ce62e5feaf78af8bcae5f
